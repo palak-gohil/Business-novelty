@@ -1,0 +1,127 @@
+.bg {
+    background-image: url(asets/bg\ 1.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 900px;
+    object-fit: cover;
+}
+
+.vision {
+    color: #f1ae0e;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 98px;
+    padding-top: 170px;
+}
+
+.duis {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+    word-spacing: 4px;
+}
+
+.imgf {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+
+.read {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    margin-left: 70px;
+}
+
+.bg2 {
+    background-color: #1a1a1a;
+    width: 100%;
+    height: auto;
+}
+
+.we {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+}
+
+.lorem {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.bg3 {
+    background-image: url(asets/top-view-image-motivated-employees-working-together-office-official-meeting-concept-business.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 400px;
+    width: 100%;
+}
+
+.bg4 {
+    height: auto;
+    width: 100%;
+    min-height: 400px;
+}
+
+.smallcircle {
+    height: 120px;
+    width: 120px;
+}
+
+.sp {
+    font-size: 75px;
+}
+
+.sp2 {
+    font-size: 70px;
+}
+
+.opacity {
+    padding: 57px 30px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.2)
+}
+
+.business {
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ullist {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 30px;
+    font-weight: 100;
+}
+
+.cxz {
+    background-color: #f1ae0e;
+    height: auto;
+    width: 100%;
+}
+
+.advise {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 1.1;
+    text-align: justify;    
+}
+
+.call {
+    width: 300px;
+    height: 60px;
+    border-radius: 100px;
+}
+
+.rt {
+    padding: 50px;
+}
+
+.no {
+    letter-spacing: 4px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
