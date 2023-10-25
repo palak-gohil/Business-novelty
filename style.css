@@ -113,6 +113,7 @@
     width: 300px;
     height: 60px;
     border-radius: 100px;
+    margin-left: auto;
 }
 
 .rt {
@@ -124,4 +125,32 @@
     font-size: 20px;
     font-family: 'Open Sans', sans-serif;
     text-decoration: none;
+}
+
+.main {
+    background-color: #1a1a1a;
+    height: auto;
+    width: 100%;
+}
+
+.yellowbg {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+
+.high {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.Vitae {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.64;
+}
+
+.sp3 {
+    font-size: 55px;
 }
